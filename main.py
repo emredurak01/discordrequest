@@ -5,7 +5,7 @@ import requests
 
 userToken = "USER_TOKEN"
 userID = 0  # ID
-botID = 688202466315206661
+botID = 0 # Bot_ID
 header = {
     "authorization": userToken
 }
